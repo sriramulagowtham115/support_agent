@@ -48,7 +48,7 @@ st.set_page_config(
 
 st.title(
 
-    "🤖 Personal Adaptive Customer Support Agent"
+    "🤖 Persona Adaptive Customer Support Agent"
 
 )
 
